@@ -3,7 +3,7 @@
 # devmilek
 
 **📧 devmilek@gmail.com**  
-**🌐 [Portfolio](https://www.asteriostudio.com) | [LinkedIn](https://www.linkedin.com/in/milosz-krainski/)**
+**🌐 [Portfolio](https://www.asteriostudio.com) | [LinkedIn](https://www.linkedin.com/in/devmilek/)**
 
 ---
 
