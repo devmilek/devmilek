@@ -3,7 +3,7 @@
 # devmilek
 
 **📧 devmilek@gmail.com**  
-**🌐 [Portfolio](https://www.devmilek.com) | [LinkedIn](https://www.linkedin.com/in/milosz-krainski/)**
+**🌐 [Portfolio](https://www.asteriostudio.com) | [LinkedIn](https://www.linkedin.com/in/milosz-krainski/)**
 
 ---
 
@@ -25,7 +25,7 @@ Passionate about building modern web applications. Focused on clean code, perfor
 
 ### 🚀 Featured Projects
 
-#### **Grien Recipe Platform** ([Live](https://grien.devmilek.com))  
+#### **Grien Recipe Platform** ([Live](https://grien.asteriostudio.com))  
 _React · Next.js · PostgreSQL · Cloudflare R2_  
 ▶️ Recipe sharing platform with drag-and-drop editor, dynamic portion calculator, and cooking mode timers.  
 🔧 Features: SEO optimization, multi-language support, CMS integration.
@@ -35,7 +35,7 @@ _React · Node.js · Przelewy24 · iFirma API_
 🛒 Automotive parts store with admin panel, payment integrations, and automated invoicing.  
 🔧 Scalable architecture, CI/CD pipeline.
 
-#### **Portfolio & Project Showcase** ([Live](https://www.devmilek.com))  
+#### **Portfolio & Project Showcase** ([Live](https://www.asteriostudio.com))  
 _Next.js · Framer Motion · Responsive Design_  
 🎨 Interactive showcase of web projects with performance-focused animations and mobile-first approach.
 
