@@ -23,24 +23,6 @@ Passionate about building modern web applications. Focused on clean code, perfor
 
 ---
 
-### 🚀 Featured Projects
-
-#### **Grien Recipe Platform** ([Live](https://grien.asteriostudio.com))  
-_React · Next.js · PostgreSQL · Cloudflare R2_  
-▶️ Recipe sharing platform with drag-and-drop editor, dynamic portion calculator, and cooking mode timers.  
-🔧 Features: SEO optimization, multi-language support, CMS integration.
-
-#### **BusParts24 E-Commerce** ([Live](https://www.busparts24.com))  
-_React · Node.js · Przelewy24 · iFirma API_  
-🛒 Automotive parts store with admin panel, payment integrations, and automated invoicing.  
-🔧 Scalable architecture, CI/CD pipeline.
-
-#### **Portfolio & Project Showcase** ([Live](https://www.asteriostudio.com))  
-_Next.js · Framer Motion · Responsive Design_  
-🎨 Interactive showcase of web projects with performance-focused animations and mobile-first approach.
-
----
-
 ### 🎓 Education & Certifications
 
 - **Applied Informatics** (B.Eng. in progress)  
